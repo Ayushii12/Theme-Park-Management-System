@@ -1,0 +1,2 @@
+# ThemeParkManagementSystem
+In today’s technology-driven world, every organization needs to have an online portal in order to increase its reach. This project involves designing an online portal for the Theme park. The main purpose of the project is to provide a good interface for its users to interact and check the latest offers and rides of the Park, covid measures, and book tickets from the comfort of their homes.
